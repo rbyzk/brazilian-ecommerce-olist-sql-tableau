@@ -23,7 +23,7 @@ Using **PostgreSQL** for querying and **Tableau** for interactive visualization,
 ```
 brazilian-ecommerce-olist-tableau/
 ├── data/
-│ └── brazilian_ecommerce_public_dataset.csv 
+│ └── brazilian_ecommerce_public_dataset
 ├── sql/
 │ ├── olist_analysis_queries.sql # Core SQL queries
 │ ├── monthly_revenue.sql
