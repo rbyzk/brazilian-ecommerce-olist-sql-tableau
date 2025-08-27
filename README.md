@@ -55,22 +55,27 @@ brazilian-ecommerce-olist-tableau/
 ## 🔍 Key Insights
 
 ### **1. Sales Performance**
-- **São Paulo**, **Rio de Janeiro**, and **Minas Gerais** generate the **highest revenue**.
-- Categories like **beleza_saude**, **cama_mesa_banho**, and **esporte_lazer** dominate overall sales.
+- **São Paulo**, **Rio de Janeiro**, and **Minas Gerais** dominate overall revenue.
+- **beleza_saude**, **cama_mesa_banho**, and **esporte_lazer** are the top-performing categories.
 
 ### **2. Customer Segmentation**
-- Customers are grouped into **Premium**, **Regular**, and **Low-value** segments based on spending:
-  - **Premium (> BRL 1000)** → Generate ~**50% of total revenue**.
-  - **Regular (BRL 500–1000)** → Moderate revenue contribution.
-  - **Low (< BRL 500)** → Majority by volume, smaller impact on revenue.
+- Customers are grouped based on spending levels:
+  - **Premium (> BRL 1000):** Contribute nearly **50% of total revenue**.
+  - **Regular (BRL 500–1000):** Provide moderate revenue.
+  - **Low (< BRL 500):** High order volume but smaller revenue share.
 
 ### **3. Delivery Performance**
-- Some states, like **Alagoas (24%)** and **Maranhão (20%)**, show **high late delivery rates**.
-- Faster deliveries directly correlate with **higher customer satisfaction scores**.
+- States like **Alagoas (24%)** and **Maranhão (20%)** have **high late delivery rates**.
+- Faster deliveries lead to **higher customer satisfaction scores**:
+  - **Fast deliveries (0–2 days):** Avg. rating **4.48**
+  - **Late deliveries:** Avg. rating drops to **4.09**
 
 ### **4. Returns & Cancellations**
-- Categories like **pc_gamer** and **portateis_cozinha_e_preparadores** show **above-average return rates**.
-- High-volume categories maintain **low cancellation ratios**.
+- **pc_gamer** has the highest return rate (**11.11%**).
+- Other notable categories:  
+  - **portateis_cozinha_e_preparadores:** **6.67%**  
+  - **dvds_blu_ray:** **3.13%**
+- High-volume categories show **lower return ratios**, while **niche categories** tend to have **higher returns**.
 
 ---
 
