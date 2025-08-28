@@ -54,7 +54,7 @@ brazilian-ecommerce-olist-tableau/
 ---
 ## Tableau Link
 
-https://public.tableau.com/views/BRAZILIANE-COMMERCEDASHBOARD_17562397937930/Overview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+[**BRAZILIAN E-COMMERCE DASHBOARD**](https://public.tableau.com/views/BRAZILIANE-COMMERCEDASHBOARD_17562397937930/Overview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
