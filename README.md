@@ -66,9 +66,9 @@ brazilian-ecommerce-olist-tableau/
 
 ### **2. Customer Segmentation**
 - Customers are grouped based on spending levels:
-  - **Premium (> BRL 1000):** Contribute nearly **50% of total revenue**.
-  - **Regular (BRL 500–1000):** Provide moderate revenue.
-  - **Low (< BRL 500):** High order volume but smaller revenue share.
+  - **Premium (> 1000):** Contribute nearly **50% of total revenue**.
+  - **Regular (500–1000):** Provide moderate revenue.
+  - **Low (< 500):** High order volume but smaller revenue share.
 
 ### **3. Delivery Performance**
 - States like **Alagoas (24%)** and **Maranhão (20%)** have **high late delivery rates**.
