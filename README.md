@@ -50,6 +50,12 @@ brazilian-ecommerce-olist-tableau/
 
 <img width="4724" height="945" alt="Brazilian E-Commerce Dashboard" src="https://github.com/user-attachments/assets/ecfdf6eb-93a0-4b0f-bb2c-7a41f7d1d0ff" />
 
+
+---
+## Tableau Link
+
+https://public.tableau.com/views/BRAZILIANE-COMMERCEDASHBOARD_17562397937930/Overview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 ---
 
 ## 🔍 Key Insights
