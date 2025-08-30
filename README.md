@@ -98,9 +98,7 @@ The **interactive Tableau dashboard** visualizes Olist’s marketplace performan
 
 ---
 
-## ▶️ How to Use
-
-1. **Clone the repository**  
+ **Clone the repository**  
 ```bash
 git clone https://github.com/rbyzk/brazilian-ecommerce-olist-tableau.git
 ```
