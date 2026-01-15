@@ -18,6 +18,7 @@ Using **PostgreSQL** for querying and **Tableau** for interactive visualization,
 
 ---
 
+
 ## 📂 Project Structure
 
 ```
